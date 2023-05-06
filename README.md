@@ -1,1 +1,2 @@
 # odin-recipes
+This is a repo of code used to complete an assignment from The Odin Project. Using lists, different headings, unordered/ordered lists, sourcing images and links was also done. I also looked up how to change the size of my images and messed up putting my image in the first time. Fixed it by adjusting where it finds the image and the image file type.
